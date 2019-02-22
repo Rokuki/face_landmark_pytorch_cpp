@@ -1,5 +1,5 @@
 # face_landmark_pytorch_cpp
-Loading (1adrianb)[face-alignment](https://github.com/1adrianb/face-alignment) with C++
+Loading [face-alignment](https://github.com/1adrianb/face-alignment) (1adrianb) with C++
 
 ![face-alignment](https://github.com/1adrianb/face-alignment/raw/master/docs/images/face-alignment-adrian.gif)
 
